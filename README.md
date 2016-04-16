@@ -1,2 +1,2 @@
-# LINKED-LIST2
+# LINKED-LIST
 Developed In 2nd Sem.
