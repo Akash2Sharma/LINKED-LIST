@@ -30,7 +30,7 @@ list rest(list l)
     return l;
   }
   return l->next;
-}
+} 
                                                                                     
 void pl(list l)
 {
