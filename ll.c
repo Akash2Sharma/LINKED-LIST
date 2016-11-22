@@ -22,7 +22,7 @@ int first(list l)
   }
   return l->value;
 }
- 
+  
 list rest(list l)
 {
   if (NULL == l) {
