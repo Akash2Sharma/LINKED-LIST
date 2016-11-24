@@ -32,7 +32,7 @@ list rest(list l)
   return l->next; 
 } 
                                                                                      
-void pl(list l) 
+void pl(list l)  
 {
   if (l == NULL) {
     printf(")");
