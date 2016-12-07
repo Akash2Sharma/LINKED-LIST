@@ -20,7 +20,7 @@ int first(list l)
     printf("Error taking first of empty list\n");
     return 0;
   }
-  return l->value; 
+  return l->value;  
 }
   
 list rest(list l)
