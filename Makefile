@@ -2,7 +2,7 @@ CFLAGS  = -Wall -std=c11 -g
 LIBS = -lm
 
 .PHONY: clean 
- 
+  
 all : ll
 
 clean :
