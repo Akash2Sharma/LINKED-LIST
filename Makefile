@@ -4,7 +4,7 @@ LIBS = -lm
 .PHONY: clean 
   
 all : ll
-
+                                
 clean :
 	rm -f *.o  *~ ll tst
 	rm -rf *.dSYM
@@ -23,3 +23,4 @@ ui.o : ll.o ui.c ui.h ll.h
 
 ll.o : ll.c ll.h
 	gcc $(CFLAGS) -c ll.c
+                   
