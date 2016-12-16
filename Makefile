@@ -3,7 +3,7 @@ LIBS = -lm
 
 .PHONY: clean 
   
-all : ll
+all : ll 
                                 
 clean :
 	rm -f *.o  *~ ll tst
