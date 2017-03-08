@@ -1,4 +1,4 @@
-                                                  
+                                                   
 #include <stdio.h>
 #include <stdlib.h>
  #include <math.h>
@@ -32,7 +32,7 @@ list rest(list l)
   }  
   return l->next; 
 }                        
-                                                                                              
+                                                                                                             
 void pl(list l)  
 {
   if (l == NULL) {
