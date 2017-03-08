@@ -29,7 +29,7 @@ list rest(list l)
   if (NULL == l) {
     printf("Error taking rest of empty list\n");
     return l;
-  } 
+  }  
   return l->next; 
 }                        
                                                                                              
