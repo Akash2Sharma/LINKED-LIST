@@ -8,8 +8,7 @@
  * three functions that execute the commands and singly, doubly and
  * circular linked list. Each of these functions is called by
  * execute_command, which is called in main. 
- *****************************************/
-
+ *****************************************/ 
 /*
  * execute_singly_linked_list_commands
  * executes the commands for the singly linked list stories.
