@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdlib.h>
+#include <stdlib.h> 
 #include "ll.h"
 #include "ui.h" 
 /*****************************************
@@ -7,7 +7,7 @@
  * This section contains the functions that execute commands. It has
  * three functions that execute the commands and singly, doubly and
  * circular linked list. Each of these functions is called by
- * execute_command, which is called in main.
+ * execute_command, which is called in main. 
  *****************************************/
 
 /*
