@@ -6,7 +6,7 @@
 
 list init_sll(list l)
 {
-  l = (list)malloc(sizeof(struct node));
+  l = (list)malloc(sizeof(struct node)); 
   l->value = 1;
   l->next = (list)malloc(sizeof(struct node));
   l->next->value = 3;
