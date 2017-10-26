@@ -300,7 +300,7 @@ dlist add_dll(dlist dl, int val)
 	fresh->prev=NULL;
 	dl=fresh;
    }
-  return dl;
+  return dl; 
 }
 
 /* Story 8
