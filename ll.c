@@ -411,7 +411,7 @@ list delete_cll(list cl, int position)
 	if(position == 1){
 		last->next = current->next;
 		current->next = NULL;
-		cl = last->next;
+		cl = last->next; 
 		free(current);
 		}
 	else{
