@@ -36,7 +36,7 @@ list rest(list l)
 void pl(list l)  
 {
   if (l == NULL) {  
-    printf(")");
+    printf(")"); 
   } else if (rest(l) == NULL) {
     printf("%d)", first(l));
   } else {
